@@ -32,4 +32,4 @@ A powerful, beginner-friendly, automated Nmap scanning tool written in Python �
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Abdullah-dev123/auto-nmap-scanner.git
+git clone https://github.com/Abdullah-dev123/Auto-Nmap.git
