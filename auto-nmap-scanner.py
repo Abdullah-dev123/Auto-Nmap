@@ -40,7 +40,7 @@ def script_scan():
 def custom_command():
     cmd = input(Fore.YELLOW + "Enter your custom Nmap command (without 'nmap'): ")
     print(Fore.GREEN + "[+] Running Custom Command...\n")
-    os.system(f"nmap {ip} {cmd}")
+    os.system(f"nmap {cmd} {ip}")
     print(Fore.GREEN + "[+] Custom Scan Completed.")
 
 # Show menu
